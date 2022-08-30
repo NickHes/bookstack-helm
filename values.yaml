@@ -1,3 +1,4 @@
+# version: 22.04
 # appHost: www.yourwiki.com
 # allowHttp: false
 # azuread:
